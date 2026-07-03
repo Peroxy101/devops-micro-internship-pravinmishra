@@ -33,7 +33,10 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I have always believed babies are born into this world with their brains empty. whatever they grow to be depeneds on the
+ contents the parents, not just the parent alone but the society at large pour on them. This makes me realise that 
+ whatever anyone decides to be is dependent on whatever they take in and its the bedrock of my standing principle to 
+ consume positive things to enable a positive growth in my career. It may seem difficult when majority moves in a straight line but you tend to drift the other way because you believe this is the right way to go.
 
 ---
 
@@ -55,23 +58,31 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Continous practice and dedication leads to success 
 
 ### Evidence from my life
 
-Add your answer here...
-
+When I started my cloud journey its was a diffuclt thing for me to comprehend after a long time of dedication on my 
+personal business. I started with Microsoft AZ900 after 3 months of self paced learning I tried the pre- exams 
+questions and I scored below 70% which was the success cutoff. I did that severally and I took the AZ900 exams and I 
+failed my first attempt, it took me a while to get myself to get back on the journey. This time I concentrated and 
+continously practice the questions and answer after 3 weeks of dedication I passed successfully. That was the moment
+I realised I have to keep this practice alive to succeed more.
 ---
 
 ## Truth #2
 
 ### Truth
 
-Add your answer here...
+Collaboration
 
 ### Evidence from my life
 
-Add your answer here...
+Collaboration with team members is a sure way to achieve successs in any endeavours. When I started studying for Microsoft
+Administration AZ104, I had dificulties with the projects, I contacted an old friend who I spoke to earlier about 
+transitioning into same role. When we had several long calls we discussed our problems and we suggested solutions and the
+problems I had with the project was resolved immediatly. So I believe that its neccessary to always collaborate with 
+teammates, it hepls to keep me on track.
 
 ---
 
@@ -79,11 +90,15 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Self Motivation
 
 ### Evidence from my life
 
-Add your answer here...
+You get to be in some places where you may find it difficult to achieve some personal goals. Self motivation comes from 
+the thirst of achieving success and only you knows how deeply you really want to achioeve that goal. Years ago I never
+thought it would be possible for me to think of becoming a DevOps Engineer. I told myself this is what I want and I must
+achieve it any means neccessary. Here I am today a living testimony taking part in this devops micro internship program.
+Self motivation is all I need.
 
 ---
 
@@ -135,12 +150,40 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+A journey of a thousand miles begins with a step. 
+
+The updated Version 2.0 of me is not just someone who manages technology; it's about me building, automating, scaling and securing it. Over the past few years, my career has focused on IT support and cloud administration, which have given me foundational experience, but I have been worried about what would come next.
+
+Boom..!!! DEVOPs
+
+Tech is changing every day, and organisations no longer want engineers who maintain it. They want more from the engineers, and this completely changed how I think about the next step in my career. 
+
+I joined the DevOps Micro Internship with Agentic AI, not just because I want to be part of the long training sessions or because I feel like I joined the latest group of growing minds of aspiring DevOps engineers. I joined because I want to develop real practical skills that will solve business problems. I will be focusing on:
+
+Multiple cloud platforms 
+Kubernetes
+Terraform 
+Monitoring 
+Agentic AI (most importantly) and so on 
+
+These are the bedrock of becoming an experienced DevOps Engineer.
+
+In the years going forward, I want to see myself in various places I anticipate, I hope to be working as a senior DevOps Engineer, I hope to contribute to open source project,  I also hope to obtain a Masters Degree and also obtain more certifications.
+
+The Updated Version 2.0 of myself is not about abandoning my previous self, it's about building what I already started over the years. And achieving this is to consistently show up in all meetings, collaborate with teammates, complete all assignments, deploy all projects, documentation is paramount and so on 
+ 
+ Today, the journey to my version 2.0 begins with my mindset OS..!!!
+
+ This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra.
+
+You can start your DevOps journey by joining this [Discord community](https://lnkd.in/e57WDnPV) ( https://lnkd.in/e57WDnPV ).
+
+#Devops #Cloudspecialist #AgenticAI
 
 ### Public Link
 
 Paste your link here:
-
+https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-cloudspecialist-agenticai-share-7478748232404242432-24cT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 `__________________________`
 
 ---
@@ -167,13 +210,14 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+Yes
 
 **What emotion did you feel?** (minimum 50–100 words)
 
 ## Answer
 
-Add your answer here...
+Its the most regretable thing to do,because at the end you find out you would still arrive at same spot with the one
+who didnt and you still find out its more better going through the right process.
 
 ---
 
@@ -199,16 +243,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Business for dummies by Kathleen Allen
+2. The 5 AM Club by Robin Sharma
+3. Zero to One by Peter Thiel
+4. Devops Foundation by Microsoft Learn 
+5. Terraform: Up & Running by Yevgeniy Brikman
+6. Measure What Matters by John Doerr
+7. Linux Foundamentals by Linus Foundation 
+8. Kubernetes: Up and Running by Kelsey Hightower, Brendan Burns, Joe Beda
+9. The Phoenix Project by Gene Kim
+10. Microsoft Certified DevOps Engineer Expert
 
 ---
 
@@ -237,17 +281,13 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-
+* Health ; Work out 4 times weekly 
+* Learning hours  : 10 hours Weekly 
+* Career Growth: networking conversations 
+* Technical skills: run at least one project  or lab weekly 
+* Financial success: Engage inn a business transaction always 
+* Reading 
+* 
 ---
 
 # Assignment 7. Brain Dump + 5-Month System Plan
@@ -270,9 +310,19 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: Yes 
 
-Add your answer here...
+Improve my linux skills
+
+Master terraform, docker and kubernetes
+
+Become Microsof and AWS certified 
+
+Become a qualified practical DevOps Engineer
+
+Build more about my business 
+
+Workout 2 hours daily 
 
 ---
 
@@ -290,7 +340,13 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday to Friday 
+  2 hours daily work out
+  Intermitent Fasting 
+  2 hours dedicated to my Devops career 
+  1 hour on personal novels 
+  1 hour kids assignment 
+  8 hours sleep 
 
 ---
 
@@ -298,11 +354,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+review class videos and also engage udemy materials 
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+5 session 
 
 ---
 
@@ -316,7 +372,8 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+No phones during study hours 
+20 to 30 mins of meditation daily 
 
 ---
 
@@ -324,21 +381,21 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Learning about AI prompts 
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Social media alerts 
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Stop the use of phones during lecture hours 
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-cloudspecialist-agenticai-share-7478748232404242432-24cT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs_________________________`
 
 ---
 
