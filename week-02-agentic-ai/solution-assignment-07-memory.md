@@ -22,7 +22,7 @@ Identify where Claude Code stores memory for this project.
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS7Screenshot1.png
 
 # Task 2 — Give Claude Information to Remember
 
@@ -36,13 +36,13 @@ Store project-specific rules and configurations into Claude’s memory and verif
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS7Screenshot2.png
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS7Screenshot3.png
 
 # Task 3 — Close the Session Completely
 
@@ -56,7 +56,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS7Screenshot4.png
 
 # Task 4 — Prove Memory Recall Across Sessions
 
@@ -70,13 +70,13 @@ Verify that Claude correctly recalls stored memory after a full session reset.
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS7Screenshot5.png
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS7Screenshot6.png
 
 # Submission Instructions
 

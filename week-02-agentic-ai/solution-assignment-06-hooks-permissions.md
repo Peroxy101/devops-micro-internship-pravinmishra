@@ -22,7 +22,7 @@ Create a team-level `settings.json` file with allow and deny rules for safe comm
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS6Screenshot1.png
 
 # Task 2 — Add the UserPromptSubmit Hook
 
@@ -36,7 +36,7 @@ Add a hook that intercepts user prompts before Claude starts execution and block
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS6Screenshot2.png
 
 # Task 3 — Add the PreToolUse Hook
 
@@ -50,7 +50,7 @@ Extend `settings.json` with a PreToolUse hook that blocks dangerous Bash command
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS6Screenshot3.png
 
 # Task 4 — Test the UserPromptSubmit Hook
 
@@ -64,7 +64,7 @@ Verify that destructive prompts are blocked before Claude begins execution.
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS6Screenshot4.png
 
 # Task 5 — Test the PreToolUse Hook
 
@@ -78,7 +78,7 @@ Verify that dangerous commands are intercepted before execution by the PreToolUs
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS6screenshot5.png
 
 # Submission Instructions
 
@@ -94,7 +94,7 @@ Paste your forked repository URL here:
 
 `__________________________`
 
----
+https://github.com/Peroxy101/Ultimate-Agentic-DevOps-with-Claude-Code
 
 # Completion Checklist
 

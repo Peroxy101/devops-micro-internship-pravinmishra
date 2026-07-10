@@ -22,7 +22,7 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS2screenshot1.png
 
 # Task 2 — Generate the First Draft with /init
 
@@ -36,7 +36,7 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS2screenshot2.png
 
 # Task 3 — Customize the CLAUDE.md
 
@@ -50,7 +50,7 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS2Screenshot3.png
 
 # Task 4 — Test the After State
 
@@ -64,13 +64,13 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS2Screenshot4.png
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS2Screenshot5.png
 
 # Task 5 — Commit and push your changes to your fork in GitHub
 
@@ -82,7 +82,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS2Screenshot6.png
 
 ---
 
@@ -97,10 +97,11 @@ Add your screenshot here.
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
+https://github.com/Peroxy101/Ultimate-Agentic-DevOps-with-Claude-Code/blob/main/CLAUDE.md
 
-`__________________________`
+`_________________________`
 
----
+https://github.com/Peroxy101/Ultimate-Agentic-DevOps-with-Claude-Code/blob/main/CLAUDE.md
 
 # Completion Checklist
 

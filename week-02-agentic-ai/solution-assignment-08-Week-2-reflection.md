@@ -56,7 +56,7 @@ Blog Link:
 
 `__________________________________________`
 
----
+https://www.linkedin.com/pulse/my-week-2-reflection-ogbebor-peter-zblwf
 
 # Task 2 — Create LinkedIn Post
 
@@ -64,7 +64,7 @@ Blog Link:
 
 Share your Week 2 learning publicly on LinkedIn.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/blogpost.png
 
 ### LinkedIn Post Requirements
 
@@ -94,7 +94,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/linkedin%20post.png
 
 ### Submission Field
 
@@ -103,14 +103,28 @@ LinkedIn Post Content (copy-paste here):
 ```
 Paste your LinkedIn post content here
 ```
+Week 2 of the DevOps Micro Internship, done. What I built:
 
+→ A custom /scaffold-terraform skill that generates full infrastructure with one command
+→ An AI team of 3 subagents — security auditor (read-only, on purpose), cost optimizer (Haiku, because cheap tasks deserve cheap models), and a Terraform writer
+→ A live MCP connection from Claude Code to my GitHub account
+→ Safety hooks that intercept destructive prompts and block terraform destroy before it executes
+→ Persistent memory that survived a full session restart
+
+Biggest lesson: I leaked a GitHub token into a debug paste this week. Revoked it in minutes — but now I treat every credential that touches a chat or screenshot as burned. Security habits are built by mistakes, not slides.
+
+Week 2 reflection blog — https://lnkd.in/d6VFFC8Z
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://lnkd.in/e57WDnPV ).
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 ---
 
 ### LinkedIn Post Link:
 
 `__________________________________________`
 
----
+https://www.linkedin.com/feed/update/urn:li:activity:7481484501802536960/
 
 # Submission Instructions
 

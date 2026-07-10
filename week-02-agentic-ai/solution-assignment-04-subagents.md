@@ -22,7 +22,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4screenshot1.png
 
 # Task 2 — Compare the Agent Configurations
 
@@ -34,19 +34,19 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+Cost checks are just fast pattern matching against known anti-patterns, not deep reasoning. That’s why Haiku handles it sharp-sharp at a fraction of the cost and latency. Even the assignment self wants you to observe this.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+No Write for security auditor: Least privilege—an auditor is just there to observe and report, they must never modify the code they are reviewing. Removing Write makes the audit provably read-only, so it can’t introduce any changes or vulnerabilities, and the report stays 100% trustworthy.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+Inherit for tf-writer Code generation is a very high-stakes task, so tf-writer should always run on whatever model the main session is using rather than being pinned down. If you upgrade your session model, the writer upgrades automatically with zero config changes
 
 ---
 
@@ -56,13 +56,13 @@ Add your answer here...
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4Screenshot2.png
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4Screenshot3.png
 
 # Task 3 — Run the Security Auditor
 
@@ -76,13 +76,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4Screenshot4.png
 
 #### Screenshot 5 — Security audit report output
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4Screenshot5.png
 
 # Task 4 — Run the Cost Optimizer
 
@@ -96,7 +96,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4Screenshot6.png
 
 # Submission Instructions
 

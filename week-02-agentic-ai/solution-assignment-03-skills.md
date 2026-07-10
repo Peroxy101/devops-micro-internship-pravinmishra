@@ -22,7 +22,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS3Screenshot1.png
 
 # Task 2 — Add the Skill Files
 
@@ -36,13 +36,13 @@ Place all required skill files into their correct directories and verify their c
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS3screenshot2.png
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS3Screenshot3.png
 
 # Task 3 — Run /scaffold-terraform
 
@@ -52,17 +52,21 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 ### Evidence
 
+
+
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS3Screenshot4.png
+
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS3Screenshot4b.png
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS3Screenshot5.png
 
 # Task 4 — Run terraform init and /tf-plan
 
@@ -76,7 +80,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS3Screenshot6.png
 
 # Submission Instructions
 
@@ -89,7 +93,7 @@ Add your screenshot here.
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
-
+https://github.com/Peroxy101/Ultimate-Agentic-DevOps-with-Claude-Code/tree/main
 `__________________________`
 
 ## LinkedIn post URL
@@ -97,7 +101,7 @@ Paste your forked repository URL here:
 Paste your forked repository URL here:
 
 `__________________________`
----
+https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-terraform-ai-share-7481378708000395264-CbUn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 
 # Completion Checklist
 

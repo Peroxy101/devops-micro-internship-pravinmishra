@@ -22,13 +22,13 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Screenshot1.png
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Screenshot%202.png
 
 # Task 2 — Fork and Clone the Starter Repository
 
@@ -42,7 +42,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Screenshot1.png
 
 # Task 3 — Observe the Agentic Loop
 
@@ -56,13 +56,13 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Screenshot%204.png
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
 Add your screenshot here.
 
----
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Screenshot%205.png
 
 # Submission Instructions
 
@@ -71,11 +71,12 @@ Add your screenshot here.
 - Push your completed work to your forked repository
 - Submit your GitHub repository URL below
 
----
+
 
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
+https://github.com/Peroxy101/Ultimate-Agentic-DevOps-with-Claude-Code
 
 `__________________________`
 
