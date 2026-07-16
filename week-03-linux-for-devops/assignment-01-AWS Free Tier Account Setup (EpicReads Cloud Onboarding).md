@@ -22,19 +22,25 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 Write your answer here.
 
----
+AWS (Amazon web Services) is a cloud computing solution by amazon offering cloud computing solutions like compute, storage, database and networking. An aWS account is a personal registered identity in aws, this gives a personalized access to AWS services which are billed at the end of a financial period. Instead of owning a personal machine to run this services its better to have a personlised AWS account that offers a more wider range of Cloud computing solutions which is more reliable and accessible to a local machine.
+An AWS account is need at this stage because its the foundational need as a devops engineer and its platform is to run all devops automation and operations. with a personal account I have a platform to run devops practices as a student learning devops.
+
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+AWS free tier, is a free amazon account meant for new users who are new to the amazon platform to be able to use or test its product and service within an estimated time frame or usage limit. This is usually used for study purposes.
 
----
+AWS free tier is expected to last for about 6 months. but it is important to note that AWS gives out a $200 .00 credit, if the user exhausts the $200 dollar or it exceeds 6months the account is suspended else its switched to paid account. 
+
+
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
 Write your answer here.
 
----
+AWS Lambda this gives up to 1 million request per month 
+Amazon S3 gives 5 GB of storage 
+Amazon Dynamo Db gives 25 GB of database 
 
 # Task 2 — Create AWS Free Tier Account
 
@@ -58,7 +64,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 Add your screenshot here.
 
----
+![AWSAccount](./screenshots/AS3SCREENSHOT1.png)
 
 # Submission Instructions
 
