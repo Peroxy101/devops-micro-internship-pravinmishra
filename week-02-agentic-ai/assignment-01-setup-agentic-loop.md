@@ -42,7 +42,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 Add your screenshot here.
 
-![vccode](./screenshots/Screenshot1.png)
+![vccode](./screenshots/Screenshot%203.png)
 
 # Task 3 — Observe the Agentic Loop
 

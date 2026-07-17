@@ -183,13 +183,8 @@ You can start your DevOps journey by joining this [Discord community](https://ln
 ### Public Link
 
 Paste your link here:
-<<<<<<< HEAD:week-01-success-mindset/README.md
-https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-cloudspecialist-agenticai-share-7478748232404242432-24cT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
-`__________________________`
-=======
 
 `Add your URL here`
->>>>>>> upstream/main:week-01-success-mindset/assignment-01-mindset-os.md
 
 ---
 
@@ -400,11 +395,7 @@ Stop the use of phones during lecture hours
 
 Paste your LinkedIn post link here:
 
-<<<<<<< HEAD:week-01-success-mindset/README.md
-`https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-cloudspecialist-agenticai-share-7478748232404242432-24cT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs_________________________`
-=======
 `Add your URL here`
->>>>>>> upstream/main:week-01-success-mindset/assignment-01-mindset-os.md
 
 ---
 
