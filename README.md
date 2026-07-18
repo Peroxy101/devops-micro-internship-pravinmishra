@@ -130,9 +130,9 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Solved | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | 🔄 In Progress | ⏳ Pending | — | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved| - | https://www.linkedin.com/pulse/week-1-reflection-ogbebor-peter-evbje |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/feed/update/urn:li:activity:7481484501802536960/| https://www.linkedin.com/pulse/my-week-2-reflection-ogbebor-peter-zblwf/ |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
