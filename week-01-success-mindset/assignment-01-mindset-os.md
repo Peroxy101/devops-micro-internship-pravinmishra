@@ -186,7 +186,7 @@ Paste your link here:
 
 `Add your URL here`
 
----
+https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-cloudspecialist-agenticai-activity-7478748235327672320-IWKl?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
 
@@ -404,7 +404,7 @@ Paste your LinkedIn post link here:
 - LinkedIn Post URL: **ADD LINK HERE**  
 - Blog / Medium : **ADD LINK HERE**  
 
----
+https://www.linkedin.com/pulse/week-1-reflection-ogbebor-peter-evbje
 
 ## 📌 About DMI & CloudAdvisory
 
