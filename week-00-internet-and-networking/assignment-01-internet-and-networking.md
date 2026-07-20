@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](./screenshots/week01scrrenshot1.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -36,7 +36,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 Add your answer here...
 
----
+Without protocols internet operations are boud to fail. Protocols in networking is a set of rule that devices follows to communicate with each other directly. examples of this protocols are HTTP,HTTPS, FTP, SMTP, TCP.
 
 # 🌐 Task 2: Internet and Networking
 
@@ -61,7 +61,8 @@ Write a short explanation (**100–150 words**) that includes:
 
 Add your answer here...
 
----
+When a user visits EpicReads from anywhere in the world, their web browser sends a request to the bookstore's server in Finland using  HTTP or HTTPS, with HTTPS providing a secure, encrypted connection. The website is identified on the internet by its unique IP ADDRESS, which allows data to be sent to the correct server. The TCP/IP protocol suite manages the communication by breaking the data into small packets, ensuring they are delivered reliably and reassembled correctly at the destination. This process uses packet switching, where each packet may travel through different network routes before reaching the server or the user's device. Together, these technologies enable customers around the world to access EpicReads quickly, accurately, and securely.
+
 
 # 🏗️ Task 3: Application Architecture & Stack
 
@@ -91,7 +92,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](./screenshots/week01screenshot2.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +103,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* CSS
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Python
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySql
+* PostgreSQL
 
 ---
 
@@ -142,7 +143,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+The Domian Name System (DNS) is like the internet's phonebook. It translates easy-to-remember domain names, such as EPICREADS.COM, into IP addresses that computers use to locate websites. To connect epicreads.com to the IP address 52.172.142.222, an A record should be used because it maps a domain name directly to an IPv4 address. This allows users to access the website by typing epicreads.com instead of remembering the numerical IP address.
+
 
 ---
 
@@ -178,7 +180,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](./screenshots/week01screenshot3.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -221,7 +223,7 @@ Paste your LinkedIn post URL here:
 Add your URL here...
 ```
 
----
+https://www.linkedin.com/posts/ogbebor-peter-304714109_week-0-complete-building-my-cloud-networking-share-7484908993438494720-eEON/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 
 ## LinkedIn Post Backup Copy
 
@@ -229,7 +231,7 @@ Paste the full text of your LinkedIn post here:
 
 Add your post content here...
 
----
+https://www.linkedin.com/posts/ogbebor-peter-304714109_week-0-complete-building-my-cloud-networking-share-7484908993438494720-eEON/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 
 # Reflection – Week 0
 
@@ -237,19 +239,19 @@ Add your post content here...
 
 Add your answer here...
 
----
+I found it easy to understand the basic networking concepts, such as protocols, IP addresses, packet switching, and the differences between two-tier and three-tier application architectures. I also understood how DNS works and why domain names are used instead of IP addresses.
 
 ### What was difficult?
 
 Add your answer here...
 
----
+The most challenging part was understanding how all the networking components work together behind the scenes when a user accesses a website. I also needed more time to fully understand the roles of different DNS record types and application layers.
 
 ### What will you improve next week?
 
 Add your answer here...
 
----
+Next week, I will spend more time practicing networking concepts, especially DNS configuration and application architecture. I also plan to build a simple web application and explore how the frontend, backend, and database communicate in a real-world environment.
 
 ## 📌 About DMI & CloudAdvisory
 
