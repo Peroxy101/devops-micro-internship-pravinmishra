@@ -64,7 +64,7 @@ https://www.linkedin.com/pulse/my-week-2-reflection-ogbebor-peter-zblwf
 
 Share your Week 2 learning publicly on LinkedIn.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/blogpost.png
+![claude](./screenshots/blogpost.png)
 
 ### LinkedIn Post Requirements
 
@@ -94,7 +94,7 @@ Your post must include:
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/linkedin%20post.png
+![linkedinpsot](./screenshots/linkedin%20post.png)
 
 ### Submission Field
 

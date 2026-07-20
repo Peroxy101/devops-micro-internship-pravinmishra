@@ -22,7 +22,7 @@ Create the `.claude` directory structure required for team-level Claude Code con
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS6Screenshot1.png
+![claudefolder](./screenshots/AS6Screenshot1.png)
 
 # Task 2 — Create the UserPromptSubmit Hook Script
 
@@ -36,7 +36,7 @@ Create a hook that checks user prompts before Claude processes them and blocks r
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS6Screenshot2.png
+![userprompt](./screenshots/AS6Screenshot2.png)
 
 # Task 3 — Create the PreToolUse Hook Script
 
@@ -50,7 +50,7 @@ Create a hook that runs before Claude executes Bash commands and blocks dangerou
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS6Screenshot3.png
+![pretoolgaurd](./screenshots/AS6Screenshot3.png)
 
 # Task 4 — Create the PostToolUse Hook Script
 
@@ -64,7 +64,7 @@ Create a hook that runs after Claude executes a Bash command and logs selected T
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS6Screenshot4.png
+![posttool](./screenshots/AS6Screenshot4.png)
 
 # Task 5 — Configure settings.json to Connect Hook Scripts
 
@@ -78,7 +78,7 @@ Configure Claude Code permissions and connect the hook scripts created in the pr
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS6screenshot5.png
+![setting.json](./screenshots/AS6screenshot5.png)
 
 # Task 6 — Test the UserPromptSubmit Hook
 

@@ -22,7 +22,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4screenshot1.png
+![claudeagent](./screenshots/AS4screenshot1.png)
 
 # Task 2 — Compare the Agent Configurations
 
@@ -56,13 +56,13 @@ Inherit for tf-writer Code generation is a very high-stakes task, so tf-writer s
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4Screenshot2.png
+![secauditor](./screenshots/AS4Screenshot2.png)
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4Screenshot3.png
+![costoptimizer](./screenshots/AS4Screenshot3.png)
 
 # Task 3 — Run the Security Auditor
 
@@ -76,13 +76,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4Screenshot4.png
+![delegationmessage](./screenshots/AS4Screenshot4.png)
 
 #### Screenshot 5 — Security audit report output
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4Screenshot5.png
+![securityauditreport](./screenshots/AS4Screenshot5.png)
 
 # Task 4 — Run the Cost Optimizer
 
@@ -96,7 +96,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS4Screenshot6.png
+![costoptagent](./screenshots/AS4Screenshot6.png)
 
 # Submission Instructions
 

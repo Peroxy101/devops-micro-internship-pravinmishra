@@ -22,7 +22,7 @@ Generate a GitHub Personal Access Token (PAT) that will be used for MCP authenti
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS5Screenshot1.png
+![gittoktn](./screenshots/AS5Screenshot1.png)
 
 # Task 2 — Create .mcp.json at the Project Root
 
@@ -36,7 +36,7 @@ Create and configure the `.mcp.json` file to define the GitHub MCP server.
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS5Screenshot2.png
+![mcp.json](./screenshots/AS5Screenshot2.png)
 
 # Task 3 — Add Your Token to settings.local.json
 
@@ -50,7 +50,7 @@ Store your GitHub token securely in `.claude/settings.local.json` and ensure it 
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS5Screenshot3.png
+![setting.local](./screenshots/AS5Screenshot3.png)
 
 # Task 4 — Verify the Connection with /mcp
 
@@ -64,7 +64,7 @@ Confirm that the GitHub MCP server is successfully connected inside Claude Code.
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS5Screenshot4.png
+![mcpoutput](./screenshots/AS5Screenshot4.png)
 
 # Task 5 — Run a Live GitHub Query
 
@@ -78,7 +78,7 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 Add your screenshot here.
 
-https://github.com/Peroxy101/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/AS5Screenshot5.png
+![clauderesponse](./screenshots/AS5Screenshot5.png)
 
 # Submission Instructions
 
