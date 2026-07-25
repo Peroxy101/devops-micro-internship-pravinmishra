@@ -385,7 +385,7 @@ Cloud resources should be stopped or terminated when no longer needed mainly to 
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+
 
 https://www.linkedin.com/posts/ogbebor-peter-304714109_standardizing-production-readiness-on-call-ugcPost-7486696654675456000-erVq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 

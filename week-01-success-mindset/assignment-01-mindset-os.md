@@ -31,7 +31,6 @@ You will reuse this in later weeks. So do it properly once.
 
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
-## Answer
 
 I have always believed babies are born into this world with their brains empty. whatever they grow to be depeneds on the
  contents the parents, not just the parent alone but the society at large pour on them. This makes me realise that 
@@ -182,10 +181,6 @@ You can start your DevOps journey by joining this [Discord community](https://ln
 
 ### Public Link
 
-Paste your link here:
-
-`Add your URL here`
-
 https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-cloudspecialist-agenticai-activity-7478748235327672320-IWKl?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 
 # Assignment 4. Have you ever cut corners (unethical / dishonest / shortcut behavior — not necessarily illegal)? If yes, how did it make you feel?
@@ -218,8 +213,6 @@ Yes
 
 Its the most regretable thing to do,because at the end you find out you would still arrive at same spot with the one
 who didnt and you still find out its more better going through the right process.
-
----
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
 
@@ -393,9 +386,6 @@ Stop the use of phones during lecture hours
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
-
-`Add your URL here`
 
 ---
 
@@ -415,10 +405,10 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 **DMI Official Website:** https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 🎓 **University:** https://university.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 💬 **Discord Community:** https://discord.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 📝 **Blog:** https://dmi.pravinmishra.com/blog?utm_source=github&utm_medium=readme  
+- 🌐 **DMI Official Website:** https://pravinmishra.com/dmi  
+- 🎓 **DevOps for Beginners (Udemy):** https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
+- 🎓 **Ultimate Agentic AI DevOps with Clude Code** https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/?referralCode=448389767BC96284087B
+- 🎓 **DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm** https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/?referralCode=1C5B734505D65A010FA3
 - ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
 - 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
 - 🏢 **CloudAdvisory (LinkedIn):** https://www.linkedin.com/company/thecloudadvisory/

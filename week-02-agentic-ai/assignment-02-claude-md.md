@@ -20,8 +20,6 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
-
 ![claude.md](./screenshots/AS2screenshot1.png)
 
 # Task 2 — Generate the First Draft with /init
@@ -33,8 +31,6 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 ### Evidence
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
-
-Add your screenshot here.
 
 ![claudevscode](./screenshots/AS2screenshot2.png)
 
@@ -48,8 +44,6 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
-
 ![customizedclaude](./screenshots/AS2Screenshot3.png)
 
 # Task 4 — Test the After State
@@ -62,13 +56,10 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
-
 ![claudespec](./screenshots/AS2Screenshot4.png)
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
 
 ![claudewarning](./screenshots/AS2Screenshot5.png)
 
@@ -84,7 +75,6 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 ![claudevisible](./screenshots/AS2Screenshot6.png)
 
----
 
 # Submission Instructions
 
@@ -124,10 +114,10 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 DMI Official Website: https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 🎓 University: https://university.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 💬 Discord Community: https://discord.pravinmishra.com?utm_source=github&utm_medium=readme  
-- 📝 Blog: https://dmi.pravinmishra.com/blog?utm_source=github&utm_medium=readme  
+- 🌐 DMI Official Website: https://pravinmishra.com/dmi  
+- 🎓 DevOps for Beginners (Udemy): https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
+- 🎓 Agentic AI DevOps with Claude Code: https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/  
+- 🎓 DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm: https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/  
 - ▶️ YouTube Playlist: https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
 - 🔗 Pravin Mishra (LinkedIn): https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
 - 🏢 CloudAdvisory (LinkedIn): https://www.linkedin.com/company/thecloudadvisory/
