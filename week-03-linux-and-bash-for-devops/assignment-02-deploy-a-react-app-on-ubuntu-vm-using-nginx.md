@@ -20,9 +20,7 @@ Install Node.js and npm on the Ubuntu VM and verify the installation.
 
 #### Screenshot 1 — Output of `node -v && npm -v` showing installed versions
 
-Add your screenshot here.
-
----
+![INSTALNODENPM](./screenshots/Week3AS2SC1.png)
 
 # Task 2 — Setup Environment (Nginx)
 
@@ -34,9 +32,7 @@ Install Nginx, start the service, and confirm it is running.
 
 #### Screenshot 2 — Output of `systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
-
----
+![--NO-PAGER](./screenshots/Week3AS2SC2.png)
 
 # Task 3 — Clone React Application
 
@@ -48,10 +44,7 @@ Clone the project repository and verify the project files are present.
 
 #### Screenshot 3 — Output of `ls` inside the `my-react-app` directory showing project files
 
-Add your screenshot here.
-
----
-
+![LS](./screenshots/Week3AS2SC3.png)
 # Task 4 — Modify Application (Personalization)
 
 ## Goal
@@ -62,9 +55,7 @@ Update `App.js` with your full name and the current date.
 
 #### Screenshot 4 — `nano App.js` open showing your full name and date filled in
 
-Add your screenshot here.
-
----
+![FULLNAMEAND DATE](./screenshots/Week3As2SC4.png)
 
 # Task 5 — Build React Application
 
@@ -76,9 +67,7 @@ Install dependencies and generate the production build.
 
 #### Screenshot 5 — Output of `ls` inside `my-react-app` showing the `build/` folder generated
 
-Add your screenshot here.
-
----
+![OUTPUT-LS](./screenshots/Week3AS2SC5.png)
 
 # Task 6 — Deploy React Build to Nginx Web Root
 
@@ -90,9 +79,7 @@ Copy the production build files to the Nginx web root directory.
 
 #### Screenshot 6 — Output of `ls /var/www/html/` showing the deployed build contents
 
-Add your screenshot here.
-
----
+![OUTPUT-LS-NGINX](./screenshots/Week3AS2SC6.png)
 
 # Task 7 — Configure Nginx for React Application
 
@@ -104,15 +91,11 @@ Apply Nginx configuration for React routing and confirm the service is active.
 
 #### Screenshot 7 — Output of `systemctl is-active nginx` showing `active`
 
-Add your screenshot here.
-
----
+![systemctlnginx](./screenshots/Week3AS2SC7.png)
 
 #### Screenshot 8 — Output of `cat /etc/nginx/sites-available/default` showing the Nginx config
 
-Add your screenshot here.
-
----
+![Catoutput](./screenshots/Week3AS2SC8.png)
 
 # Task 8 — Test Deployment
 
@@ -124,15 +107,11 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
-
----
+![curlconfig](./screenshots/Week3AS2SC9.png)
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
-Add your screenshot here.
-
----
+![deployment](./screenshots/Week3AS2sc10.png)
 
 # LinkedIn Post (Required)
 
@@ -140,17 +119,11 @@ Add your screenshot here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
-`Add your URL here`
-
----
+https://www.linkedin.com/posts/ogbebor-peter-304714109_cloudcomputing-reactjs-nginx-ugcPost-7485004820953841664--NXU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
-
----
+![linkedinpost](./screenshots/linkedinpost.png)
 
 # Submission Instructions
 

@@ -20,8 +20,6 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
-
 ![claudeagent](./screenshots/AS4screenshot1.png)
 
 # Task 2 — Compare the Agent Configurations
@@ -54,13 +52,9 @@ Inherit for tf-writer Code generation is a very high-stakes task, so tf-writer s
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
-
 ![secauditor](./screenshots/AS4Screenshot2.png)
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
-
-Add your screenshot here.
 
 ![costoptimizer](./screenshots/AS4Screenshot3.png)
 
@@ -74,13 +68,9 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
-
 ![delegationmessage](./screenshots/AS4Screenshot4.png)
 
 #### Screenshot 5 — Security audit report output
-
-Add your screenshot here.
 
 ![securityauditreport](./screenshots/AS4Screenshot5.png)
 
@@ -93,8 +83,6 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 ### Evidence
 
 #### Screenshot 6 — The full cost optimization report
-
-Add your screenshot here.
 
 ![costoptagent](./screenshots/AS4Screenshot6.png)
 

@@ -46,15 +46,12 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
-
+![claude](./screenshots/blogpost.png)
 ---
 
 ### Submission Field
 
 Blog Link:
-
-`Add your URL here`
 
 https://www.linkedin.com/pulse/my-week-2-reflection-ogbebor-peter-zblwf
 
