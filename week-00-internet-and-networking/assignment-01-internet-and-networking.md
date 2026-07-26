@@ -217,15 +217,11 @@ Add the following credit note at the end of your post:
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
 https://www.linkedin.com/posts/ogbebor-peter-304714109_week-0-complete-building-my-cloud-networking-share-7484908993438494720-eEON/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 
 ## LinkedIn Post Backup Copy
 
 Paste the full text of your LinkedIn post here:
-
-Add your post content here...
 
 https://www.linkedin.com/posts/ogbebor-peter-304714109_week-0-complete-building-my-cloud-networking-share-7484908993438494720-eEON/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 
@@ -233,19 +229,16 @@ https://www.linkedin.com/posts/ogbebor-peter-304714109_week-0-complete-building-
 
 ### What did you find easy?
 
-Add your answer here...
 
 I found it easy to understand the basic networking concepts, such as protocols, IP addresses, packet switching, and the differences between two-tier and three-tier application architectures. I also understood how DNS works and why domain names are used instead of IP addresses.
 
 ### What was difficult?
 
-Add your answer here...
 
 The most challenging part was understanding how all the networking components work together behind the scenes when a user accesses a website. I also needed more time to fully understand the roles of different DNS record types and application layers.
 
 ### What will you improve next week?
 
-Add your answer her ...
 
 Next week, I will spend more time practicing networking concepts, especially DNS configuration and application architecture. I also plan to build a simple web application and explore how the frontend, backend, and database communicate in a real-world environment.
 
