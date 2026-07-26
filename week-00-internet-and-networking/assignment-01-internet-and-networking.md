@@ -59,7 +59,6 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
 
 When a user visits EpicReads from anywhere in the world, their web browser sends a request to the bookstore's server in Finland using  HTTP or HTTPS, with HTTPS providing a secure, encrypted connection. The website is identified on the internet by its unique IP ADDRESS, which allows data to be sent to the correct server. The TCP/IP protocol suite manages the communication by breaking the data into small packets, ensuring they are delivered reliably and reassembled correctly at the destination. This process uses packet switching, where each packet may travel through different network routes before reaching the server or the user's device. Together, these technologies enable customers around the world to access EpicReads quickly, accurately, and securely.
 
@@ -221,9 +220,7 @@ https://www.linkedin.com/posts/ogbebor-peter-304714109_week-0-complete-building-
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
 
-https://www.linkedin.com/posts/ogbebor-peter-304714109_week-0-complete-building-my-cloud-networking-share-7484908993438494720-eEON/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 
 # Reflection – Week 0
 
