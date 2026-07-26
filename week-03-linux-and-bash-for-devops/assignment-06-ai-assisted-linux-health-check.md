@@ -503,7 +503,7 @@ https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-linux-bash-share-7
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`Add your URL here`
+https://github.com/Peroxy101/devops-micro-internship-pravinmishra/tree/main/week-03-linux-and-bash-for-devops
 
 ---
 

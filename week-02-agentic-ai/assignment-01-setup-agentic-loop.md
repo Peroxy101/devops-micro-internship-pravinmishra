@@ -70,9 +70,8 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
-https://github.com/Peroxy101/Ultimate-Agentic-DevOps-with-Claude-Code
 
-`Add your URL here`
+https://github.com/Peroxy101/Ultimate-Agentic-DevOps-with-Claude-Code
 
 ---
 

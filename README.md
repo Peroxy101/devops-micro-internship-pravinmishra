@@ -130,10 +130,10 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ogbebor-peter-304714109_week-0-complete-building-my-cloud-networking-share-7484908993438494720-eEON/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs| https://www.linkedin.com/posts/ogbebor-peter-304714109_i-am-super-excited-to-announce-the-beginning-ugcPost-7442003968253263872-zyAu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs|
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ogbebor-peter-304714109_week-0-complete-building-my-cloud-networking-share-7484908993438494720-eEON/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs|https://www.linkedin.com/pulse/my-first-step-devops-understanding-how-internet-really-ogbebor-peter-hcbde |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-cloudspecialist-agenticai-share-7478748232404242432-24cT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs | https://www.linkedin.com/pulse/week-1-reflection-ogbebor-peter-evbje |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ogbebor-peter-304714109_dmibypravinmishra-agenticai-claudecode-share-7481484500481536000-Jqkn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs | https://www.linkedin.com/pulse/my-week-2-reflection-ogbebor-peter-zblwf/ |
-| 03 | Linux & Bash for DevOps |  🔄 In Progress | ⏳ Pending | — | — |
+| 03 | Linux & Bash for DevOps |  ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-aws-linux-share-7487279798197837824-7YcA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs | https://www.linkedin.com/pulse/week-3-reflection-blog-ogbebor-peter-zjire |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
