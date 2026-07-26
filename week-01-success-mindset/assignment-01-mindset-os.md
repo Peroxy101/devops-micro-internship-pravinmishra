@@ -386,7 +386,7 @@ Stop the use of phones during lecture hours
 
 ### LinkedIn Post
 
-
+https://www.linkedin.com/posts/ogbebor-peter-304714109_devops-cloudspecialist-agenticai-share-7478748232404242432-24cT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABtWEbQBVvapHtdERI7aOs2eM5g9kkTrmYs
 
 ---
 
