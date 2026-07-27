@@ -34,7 +34,6 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
 
 Without protocols internet operations are boud to fail. Protocols in networking is a set of rule that devices follows to communicate with each other directly. examples of this protocols are HTTP,HTTPS, FTP, SMTP, TCP.
 
