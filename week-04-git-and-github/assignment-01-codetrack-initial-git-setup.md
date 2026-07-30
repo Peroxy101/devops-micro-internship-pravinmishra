@@ -20,13 +20,13 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 #### Screenshot 1 — Output of `git init` inside `CodeTrack` showing "Initialized empty Git repository"
 
-Add your screenshot here.
+![output_gitinit](./screenshots/Week4AS1TK1SC1.png)
 
 ---
 
 #### Screenshot 2 — Output of `ls -a` showing the `.git` folder
 
-Add your screenshot here.
+![output_ls](./screenshots/Week4AS1TK1SC2.png)
 
 ---
 
@@ -34,7 +34,9 @@ Add your screenshot here.
 
 **1. What is the `.git` folder, and why does it matter?**
 
-Add your answer here.
+A .git folder is a hidden folder created when you create a git repository. 
+this folder is hidden because it track the activities of the repository. it tracks 
+commit, branching, and references of the project or repository
 
 ---
 
@@ -48,7 +50,7 @@ Set your Git username and email for the `CodeTrack` repository only, using `git 
 
 #### Screenshot 3 — Output of `git config --local --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+![outputgitconfig](./screenshots/Week4AS1TK2SC1.png)
 
 ---
 
@@ -62,7 +64,7 @@ Set a global Git username and email for this machine using `git config --global`
 
 #### Screenshot 4 — Output of `git config --global --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+![outputgitconfiglist](./screenshots/Week4AS1TK3SC1.png)
 
 ---
 
